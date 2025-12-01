@@ -1,5 +1,7 @@
 --- Image Quality Evaluation Summary ---
 
+AOT GAN SIMILARITY RESULTS WITHIN MASK
+
 Ideal Images Folder: /Users/kaushikyadala/Documents/IIIT/Third_Sem/ESW/mass_benchmarking/esw_dataset/ideal
 Compared Images Folder: /Users/kaushikyadala/Documents/IIIT/Third_Sem/ESW/mass_benchmarking/aot_gan/inpainted
 Processed 101 image pairs.
