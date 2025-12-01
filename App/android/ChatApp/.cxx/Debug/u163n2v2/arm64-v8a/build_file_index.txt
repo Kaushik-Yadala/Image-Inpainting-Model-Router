@@ -1,0 +1,1 @@
+C:\Users\vikes\Desktop\ai-hub-apps\apps\android\ChatApp\src\main\cpp\CMakeLists.txt

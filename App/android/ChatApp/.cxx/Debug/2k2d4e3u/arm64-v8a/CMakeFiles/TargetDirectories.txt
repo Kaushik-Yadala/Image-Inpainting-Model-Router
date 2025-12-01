@@ -1,0 +1,3 @@
+C:/Users/vikes/Desktop/final-codes-26_world_domination/App/android/ChatApp/.cxx/Debug/2k2d4e3u/arm64-v8a/CMakeFiles/chatapp.dir
+C:/Users/vikes/Desktop/final-codes-26_world_domination/App/android/ChatApp/.cxx/Debug/2k2d4e3u/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/vikes/Desktop/final-codes-26_world_domination/App/android/ChatApp/.cxx/Debug/2k2d4e3u/arm64-v8a/CMakeFiles/rebuild_cache.dir

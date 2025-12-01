@@ -1,0 +1,3 @@
+C:/Users/vikes/Desktop/ai-hub-apps/apps/android/ChatApp/.cxx/RelWithDebInfo/19243tz4/arm64-v8a/CMakeFiles/chatapp.dir
+C:/Users/vikes/Desktop/ai-hub-apps/apps/android/ChatApp/.cxx/RelWithDebInfo/19243tz4/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/vikes/Desktop/ai-hub-apps/apps/android/ChatApp/.cxx/RelWithDebInfo/19243tz4/arm64-v8a/CMakeFiles/rebuild_cache.dir
