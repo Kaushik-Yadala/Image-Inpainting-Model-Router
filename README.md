@@ -16,4 +16,8 @@ NOTE :
         - This contains all the similarity benchmarking python files, the dataset for our project, and all image classification and similarity results.
         - This contains a README.md that details all the necessary steps to take to run the files and get outputs for different datasets and how to do comparision.
     - App
+        - This contains our app for image inpainting
+    - Create Selector Model
+        - This holds our attempt at the model selector, which does not utilize the image classification, but it does utilize the similarity scores to do so
+
  
